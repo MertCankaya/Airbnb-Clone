@@ -1,5 +1,5 @@
 # Airbnb Clone Demo Link
-<a href="https://airbnb-clone-125cd.web.app/">click me</a>
+<a href="https://airbnb-clone-125cd.web.app/">click me</a> for demo.
 
 
 ## Topics
